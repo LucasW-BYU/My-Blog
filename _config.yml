@@ -23,7 +23,7 @@ email: Lucaswang718@gmail.com
 description: "My thoughts and feelings after attending the career fair at BYU" 
 baseurl: "/My-Blog" # the name of the repository 
 url: "https://LucasW-BYU.github.io" #  change this to "https://<your-github-username>.github.io"
-image: /assets/images/headerimg.jpg
+image: https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg
 author: Lucas Wang
 copyright: H.W # Your initials or name or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 
