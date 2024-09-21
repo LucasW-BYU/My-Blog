@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "My career fair experience" 
+title: "Data Science Journey" 
 email: Lucaswang718@gmail.com 
-description: "My thoughts and feelings after attending the career fair at BYU" 
+description: "Experience of My Data Science Journey" 
 baseurl: "/My-Blog" # the name of the repository 
 url: "https://LucasW-BYU.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg
