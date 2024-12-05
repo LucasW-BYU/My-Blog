@@ -97,6 +97,7 @@ The app is designed for users of all skill levels. Whether you’re a data scien
    - **Line Chart**: Explore how platform popularity trends over time. when you point at the line, you can see more detailed information!!
 3. **Expandable Dataset Table**: 
    - Dive into the filtered data for deeper exploration.
+
 ![Platform Trends Chart]({{site.url}}{{site.baseurl}}/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(297).png)
 4. **Download Option**:
    - Export the filtered dataset as a CSV file for offline use.
