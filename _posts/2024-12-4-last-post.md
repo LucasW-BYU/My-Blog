@@ -91,11 +91,13 @@ The app is designed for users of all skill levels. Whether you’re a data scien
 1. **Genre and Year Filters**:
    - Select specific genres like Action, RPG, or Simulation.
    - Narrow down your analysis to a specific year range (e.g., 2000–2020).
+![Genre and Year Filters]({{site.url}}{{site.baseurl}}/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(294).png)
 2. **Interactive Visualizations**:
    - **Bar Chart**: View the top-rated games for any genre you choose.
-   - **Line Chart**: Explore how platform popularity trends over time.
-3. **Dataset Exploration**:
-   - Search and browse the dataset directly within the app.
+   - **Line Chart**: Explore how platform popularity trends over time. when you point at the line, you can see more detailed information!!
+3. **Expandable Dataset Table**: 
+   - Dive into the filtered data for deeper exploration.
+![Platform Trends Chart]({{site.url}}{{site.baseurl}}/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(297).png)
 4. **Download Option**:
    - Export the filtered dataset as a CSV file for offline use.
 
