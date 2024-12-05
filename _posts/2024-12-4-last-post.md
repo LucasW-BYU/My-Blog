@@ -135,4 +135,4 @@ Here’s a quick rundown of what the app offers:
 
 ## **Resources**
 - **App**: [Streamlit App Link](https://new-video-game-app-app-3pvt7xamzfk2zhh9oyznnx.streamlit.app/)
-- **Code**: [GitHub Repository Link](#)
+- **Code**: [GitHub Repository Link](https://github.com/LucasW-BYU/new-video-game-streamlit-app.git)
